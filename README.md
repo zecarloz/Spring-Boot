@@ -1,6 +1,6 @@
 # Spring-Boot
 
-### Portanto, o Spring Boot é uma maneira eficiente e eficaz de
+### O Spring Boot é uma maneira eficiente e eficaz de
 ### criar uma aplicação em Spring e facilmente colocá-la no ar,
 ### funcionando sem depender de um servidor de aplicação. O Spring
 ### Boot criou um conceito novo que não existe até o momento na 
